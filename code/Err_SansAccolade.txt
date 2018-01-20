@@ -1,0 +1,6 @@
+{
+int j;
+int i; 
+j = 4;
+for (i = 0; i < 3; i = i  +	1)
+}

@@ -1,0 +1,6 @@
+{
+int i ;
+i = i + 1;
+}
+Resultat attendu :
+Pas d'erreurs du compilateur

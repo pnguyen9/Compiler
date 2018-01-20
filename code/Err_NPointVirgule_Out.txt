@@ -1,0 +1,7 @@
+{
+int  i
+i = 0;
+}
+
+Resultat attendu : 
+Erreur : syntaxe déclaration variable incorrecte. At line: 1; column 0

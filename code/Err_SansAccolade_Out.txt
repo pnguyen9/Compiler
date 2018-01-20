@@ -1,0 +1,9 @@
+{
+int j;
+int i;
+j = 4;
+for (i = 0; i < 3; i = i  +	1)
+}
+
+Resultat attendu : 
+Erreur : accolade ouverte ('{') mais non refermée ('}'). At line: 0; column: 0

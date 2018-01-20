@@ -1,0 +1,15 @@
+{
+int i ; 
+i = 2 ;
+int j ;
+j = i ;
+i = i + j ;
+j = j + j + j + i ;
+i = i * 5 ; 
+out i;
+out j;
+}
+
+Resultat attendu :
+j = 10
+i = 20
